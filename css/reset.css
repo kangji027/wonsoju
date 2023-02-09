@@ -1,0 +1,75 @@
+@charset "utf-8";
+
+
+
+@font-face {
+    font-family: "noto-sans-kr";
+    src: url(../fonts/Noto_Sans_KR/NotoSansKR-Bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "noto-sans-kr";
+    src: url(../fonts/Noto_Sans_KR/NotoSansKR-Medium.otf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "noto-sans-kr";
+    src: url(../fonts/Noto_Sans_KR/NotoSansKR-Regular.otf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "noto-sans-kr";
+    src: url(../fonts/Noto_Sans_KR/NotoSansKR-Light.otf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "noto-sans-kr";
+    src: url(../fonts/Noto_Sans_KR/NotoSansKR-Bold.otf);
+    font-weight: 700;
+}
+@font-face {
+    font-family: "oswald";
+    src: url(../fonts/Oswald/static/Oswald-Regular.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: "oswald";
+    src: url(../fonts/Oswald/static/Oswald-Medium.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: "oswald";
+    src: url(../fonts/Oswald/static/Oswald-Light.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: "oswald";
+    src: url(../fonts/Oswald/static/Oswald-SemiBold.ttf);
+    font-weight: 600;
+}
+
+
+
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+ul,li{
+    list-style: none;
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+html{
+    background-color: black;
+    color: #fff;
+}
+html{
+    font-family: 'noto-sans-kr';
+    font-weight: 400;
+}
